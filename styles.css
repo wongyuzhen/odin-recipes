@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 24px;
+}
+
+.recipe-list li {
+    font-size: 24px;
+}
+
+.central {
+    text-align: center;
+}
+
+img {
+    height: 520px;
+    width: auto;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.description {
+    background-color: rgb(255, 255, 173);
+}
+
+.ingredients {
+    background-color: rgb(200, 237, 250);
+}
+
+.steps {
+    background-color: rgb(243, 193, 193);
+}
